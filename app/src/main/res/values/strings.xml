@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="coal_pucture_content_description">This is picture of Coal</string>
+    <string name="main_message">I Am Poor</string>
 </resources>
